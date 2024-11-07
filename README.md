@@ -1,5 +1,3 @@
-### Here’s the corrected markdown version:
-
 ```markdown
 # Real-Time Chat App
 
