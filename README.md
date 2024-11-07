@@ -1,4 +1,4 @@
-```markdown
+
 # Real-Time Chat App
 
 This is a simple **Real-Time Chat App** built with **Socket.IO** and **Express**. It allows users to communicate in real-time using WebSockets, with features like message bubbles, typing indicators, online user count, and timestamps. The app is perfect for those looking to build a basic chat application or learn about WebSocket-based communication in Node.js.
@@ -14,7 +14,6 @@ This is a simple **Real-Time Chat App** built with **Socket.IO** and **Express**
 
 ## Screenshots
 
-_(You can include screenshots of the app here for better visualization.)_
 
 ## Installation and Setup Guide
 
@@ -123,23 +122,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or feedback, feel free to open an issue in the repository or contact me at `[your email]`.
-```
-
-### Key Changes:
-
-1. **Fixed Code Block Formatting**: Used triple backticks (```) for code blocks.
-2. **Headings**: Ensured headings have proper spacing for clear structure.
-3. **Inline Code**: Used inline backticks (`) for shorter pieces of code (e.g., `http://localhost:5000`).
-
-### To Fix GitHub Preview:
-
-- Ensure there are no syntax errors when previewing the markdown.
-- Copy and paste this markdown directly into your `README.md` file on GitHub.
-
-### How to Test:
-
-- After pasting the markdown in the `README.md` file, **commit** the file to GitHub and then **view it** in your browser to see the final rendered result.
-- The preview in GitHub should now be correctly formatted.
-
-Let me know if this works or if you still face issues!
+For any questions or feedback, feel free to open an issue in the repository or contact me at `yasirminhas295@gmail.com`.
+Visit my portfolio: https://yasirraees.com/
